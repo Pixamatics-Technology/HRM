@@ -11,8 +11,7 @@ namespace HRMAPI.Models
         public string Name { get; set; }
 
         public string Samrat { get; set; }
-        public string Rakib { get; set; }
-        public string Rakib1 { get; set; }
-        public string Rakibihihi { get; set; }
+
     }
+  
 }
