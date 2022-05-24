@@ -12,5 +12,6 @@ namespace HRMAPI.Models
 
         public string Samrat { get; set; }
         public string Rakib { get; set; }
+        public string Rakib1 { get; set; }
     }
 }
