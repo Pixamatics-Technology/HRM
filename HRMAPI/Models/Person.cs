@@ -9,7 +9,6 @@ namespace HRMAPI.Models
     {
         public int MyProperty { get; set; }
         public string Name { get; set; }
-
         public string Samrat { get; set; }
         public string Rakib { get; set; }
     }
