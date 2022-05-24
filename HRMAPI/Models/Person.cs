@@ -8,5 +8,6 @@ namespace HRMAPI.Models
     public class Person
     {
         public int MyProperty { get; set; }
+        public string Name { get; set; }
     }
 }
